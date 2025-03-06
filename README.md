@@ -1,4 +1,4 @@
-# [LeetCode](https://leetcode.com) 進階程式設計
+# [LeetCode]([https://leetcode.com/]) 進階程式設計
 
 
 ## Solved Problems
